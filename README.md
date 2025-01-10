@@ -28,11 +28,8 @@ A utility script to pack your project's code into a single file (`project-pack.t
 Ensure Node.js (v14+) is installed.
 Place the script outside the src folder of your React project.
 
-example:
-node src/packer.js src/pages src/components src/utils
 
-
-Output Example:
+#### Output Example:
 === FILE: /path/to/src/pages/Home.js ===
 // Contents of Home.js
 
@@ -50,6 +47,8 @@ node packer.js <directory1> <directory2> ...
 
 example:
 node packer.js controllers routes utils app.js
+OR
+node src/packer.js src/pages src/components src/utils
 
 
 
