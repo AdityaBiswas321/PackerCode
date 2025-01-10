@@ -31,12 +31,15 @@ Place the script outside the src folder of your React project.
 
 #### Output Example:
 === FILE: /path/to/src/pages/Home.js ===
+
 // Contents of Home.js
 
 === FILE: /path/to/src/components/Header.js ===
+
 // Contents of Header.js
 
 === FILE: /path/to/src/utils/api.js ===
+
 // Contents of api.js
 
 
